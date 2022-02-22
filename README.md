@@ -1,2 +1,2 @@
 # Coursera
-Repo for all material, related to Coursera courses I have taken
+Repo for all materials, related to Coursera courses I have taken
